@@ -48,3 +48,6 @@ Desktop.ini
 
 # VS folder
 .vs
+
+# Rider folder
+.idea
